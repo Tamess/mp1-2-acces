@@ -21,5 +21,3 @@ with open(csv_chemin, mode='r', newline='') as csv_file :
 
     for ligne in csv_reader :
         print(ligne)
-
-# commentaire ajouté inutile
